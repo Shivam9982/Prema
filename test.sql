@@ -9,3 +9,4 @@ select *  from abc;
 hi
 select  *  from user_tables;
 select  *  from Prema;
+select *  from Prema2;
