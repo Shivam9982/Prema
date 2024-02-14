@@ -12,3 +12,6 @@ select  *  from Prema;
 select *  from Prema2;
 select  *  from abc
 hi 
+select  *  from abc
+select  *  from abc
+select  *  from abc13]
