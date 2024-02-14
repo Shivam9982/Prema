@@ -16,3 +16,9 @@ select  *  from abc
 select  *  from abc
 select  *  from abc13]
 select  *  from abc13]
+select  *  from `date `
+select  *  from {date }
+select  *  from (date )
+select  *  from (date)
+select  *  from '(date)'
+select  *  from (date)
