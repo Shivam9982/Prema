@@ -23,4 +23,3 @@ select  *  from (date)
 select  *  from '(date)'
 select  *  from (date)
 select  *  from (date)
-
