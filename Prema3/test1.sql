@@ -22,4 +22,4 @@ select  *  from (date )
 select  *  from (date)
 select  *  from '(date)'
 select  *  from (date)
-select  *  from (date)
+select  *  from (date)hi select  *  from dual
